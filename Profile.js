@@ -3,11 +3,12 @@ import React, { Component } from 'react'
 import { View, Text, StyleSheet } from 'react-native'
 
 // create a component
-const Hello = () => {
+const Profile = () => {
   return (
     <View style={styles.container}>
-      <Text>Hello</Text>
-      <Text>World</Text>
+      <Text>Profile</Text>
+      <Text>Make your Profile</Text>
+      <Text>Welcome home</Text>
     </View>
   )
 }
@@ -23,4 +24,4 @@ const styles = StyleSheet.create({
 })
 
 //make this component available to the app
-export default Hello
+export default Profile
