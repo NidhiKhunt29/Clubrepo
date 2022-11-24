@@ -7,6 +7,7 @@ const Hello = () => {
   return (
     <View style={styles.container}>
       <Text>Hello</Text>
+      <Text>World</Text>
     </View>
   )
 }
