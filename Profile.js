@@ -8,6 +8,7 @@ const Profile = () => {
     <View style={styles.container}>
       <Text>Profile</Text>
       <Text>Make your Profile</Text>
+      <Text>Welcome home</Text>
     </View>
   )
 }
