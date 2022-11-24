@@ -7,8 +7,9 @@ const Profile = () => {
   return (
     <View style={styles.container}>
       <Text>Profile</Text>
-      <Text>Make your Profile</Text>
-      <Text>Welcome home</Text>
+      <Text>Make your Profile no.2</Text>
+      <Text>Welcome home of dashboard</Text>
+      <Text>Take new steps</Text>
     </View>
   )
 }
